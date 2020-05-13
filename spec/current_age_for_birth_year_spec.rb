@@ -3,4 +3,3 @@
 
   it  expect(age_of_person).to eq(19) do
   end
-

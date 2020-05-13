@@ -1,6 +1,6 @@
 
-   age_of_person
+    def age_of_person = current_age_for_birth_year(1984) do
 
-   expect(age_of_person)
+  it  expect(age_of_person).to eq(19) do
   end
-end
+

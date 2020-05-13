@@ -1,5 +1,4 @@
- 
+def current_age_for_birthyear(1984)
+  #....
+end
 
- def current_age_for_birthyear(1984)
-   #....
- end
